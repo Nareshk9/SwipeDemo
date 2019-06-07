@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "561153895980",
+    "firebase_url": "https://swipedemo-ad786.firebaseio.com",
+    "project_id": "swipedemo-ad786",
+    "storage_bucket": "swipedemo-ad786.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561153895980:android:b92e842bcb661c9f",
+        "android_client_info": {
+          "package_name": "com.example.swipedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561153895980-kt88s45t6hrkpj1fn4u2at4hka4ardll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.swipedemo",
+            "certificate_hash": "2c7bfe2304749400b1d7ab00fecbb623129fffae"
+          }
+        },
+        {
+          "client_id": "561153895980-h7odeo0mn20ch7qn5e4or7231ppckaoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQyEsqCupRSO4iXTST92niEnKdXQc5ztY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561153895980-h7odeo0mn20ch7qn5e4or7231ppckaoa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

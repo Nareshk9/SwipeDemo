@@ -1,0 +1,36 @@
+<resources>
+
+    <string name="app_name">SwipeDemo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sliding_pages">Sliding pages</string>
+    <string name="match_date">Date</string>
+    <string name="match_info">Match Info</string>
+    <string name="score">Score</string>
+    <string name="toss">Toss</string>
+    <string name="wicket_taken">Wicket Taken</string>
+    <string name="total_6s">Total 6s</string>
+    <string name="total_4s">Total 4s</string>
+    <string name="extras">Extras</string>
+    <string name="op_partnership">Op. Partnership</string>
+    <string name="highest_score">Highest Score</string>
+    <string name="result">Result</string>
+    <string name="total_catches">Total Catches</string>
+    <string name="highest_wickets">Highest Wickets</string>
+
+    <string name="team_prompt">Choose Team</string>
+
+    <string-array name="team_list">
+        <item>IND</item>
+        <item>ENG</item>
+        <item>NZ</item>
+        <item>PAK</item>
+        <item>SL</item>
+        <item>AFG</item>
+        <item>BAN</item>
+        <item>AUS</item>
+        <item>WI</item>
+        <item>SA</item>
+    </string-array>
+
+</resources>
